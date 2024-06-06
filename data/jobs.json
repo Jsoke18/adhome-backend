@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "customerName": "John Doe",
+        "jobType": "Plumbing",
+        "status": "Scheduled",
+        "appointmentDate": "2024-06-15T09:00:00.000Z",
+        "technician": "Jane Smith",
+        "appointmentDateTime": "2024-06-15T09:00:00.000Z"
+    },
+    {
+        "id": 2,
+        "customerName": "Alice Johnson",
+        "jobType": "Electrical",
+        "status": "Completed",
+        "appointmentDate": "2024-05-20T14:00:00.000Z",
+        "technician": "Bob t",
+        "appointmentDateTime": "2024-05-20T14:00:00.000Z"
+    }
+]
